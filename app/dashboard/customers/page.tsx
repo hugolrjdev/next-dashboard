@@ -1,7 +1,6 @@
 import { NextPage } from "next";
 
-export const Page: NextPage = () => {
+export default function Page () {
     return <p>Customers</p>
 }
 
-export default Page;
