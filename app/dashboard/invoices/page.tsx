@@ -1,7 +1,5 @@
-import { NextPage } from "next";
 
-export const Page: NextPage = () => {
+export default function Page() {
     return <p>Invoices</p>
 }
 
-export default Page;
